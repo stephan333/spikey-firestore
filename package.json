@@ -1,0 +1,22 @@
+{
+  "name": "spikey-firestore",
+  "version": "1.0.0",
+  "description": "Access cloud Firestore from within NodeJS",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephan333/spikey-firestore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephan333/spikey-firestore/issues"
+  },
+  "homepage": "https://github.com/stephan333/spikey-firestore#readme",
+  "dependencies": {
+    "firebase": "^5.8.2"
+  }
+}
